@@ -1,0 +1,3 @@
+"Method","AUC","Accuracy","Sensitivity","Specificity"
+"Random Forest",0.84,0.9,1,0.8
+"SVM",0.88,0.9,1,0.8
